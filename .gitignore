@@ -1,0 +1,5 @@
+﻿__pycache__/
+*.pyc
+data/detail_cache.json
+output/
+*.tmp
